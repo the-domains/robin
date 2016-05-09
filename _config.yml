@@ -1,0 +1,28 @@
+name: robin
+favicon: null
+layout_spectrum: 0.6089572750497609
+typography_spectrum: 0.4153000805526972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9988096663728356
+  lightness: 0.3800856147427112
+  saturation: 0.13841110444627702
+  rhythmicContrast: 0.40638986765407026
+purpose: []
