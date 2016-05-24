@@ -1,29 +1,41 @@
-name: Robin
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.07867
 title: Adventures
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0
+  brandStrength: 0.4677419
+  lightness: 1
+  brandColors:
+    - '#EE3A29'
+    - '#FFFFFF'
+    - '#F8A9A2'
+    - '#FCDBD8'
+    - '#F5867C'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-78245807-1
   facebook: null
-  twitter: null
+favicon: null
+name: Robin
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.1397849
+layout_spectrum: 1
