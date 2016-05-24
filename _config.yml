@@ -2,12 +2,13 @@ name: robin
 favicon: null
 layout_spectrum: 0.6089572750497609
 typography_spectrum: 0.4153000805526972
+title: Adventures
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-78245807-1
   facebook: null
   twitter: null
 opengraph:
